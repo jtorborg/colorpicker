@@ -1,0 +1,23 @@
+#redsquare {
+	width: 100px;
+	height: 100px;
+	background: red;
+}
+
+#greensquare {
+	width: 100px;
+	height: 100px;
+	background: green;
+}
+
+#yellowsquare {
+	width: 100px;
+	height: 100px;
+	background: yellow;
+}
+
+#bluesquare {
+	width: 100px;
+	height: 100px;
+	background: blue;
+}
